@@ -8,7 +8,7 @@
 
 I'm Xiaoiaolulu, Individual developers who are passionate about full stack development, you can call me *suger* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://blog.csdn.net/weixin_45915254), welcome to pay a visit if you want to contact or want to make friends with me:).
 
-* ⌨️ I love modern languages with high usability, such as `Python`, `TypeScript`, `Kotlin`
+* ⌨️ I love modern languages with high usability, such as `Python`, `TypeScript`, `Golang`
 * 📜 From a theoretical perspective, I love *Mathematical Logic*, more specifically, *Computability Theory*, and *Programming Language Theory*.
 * 🔨 From a practical perspective, I love *Computer Network*, *Compiler Optimization Techniques*, and *Virtual Machine*.
 * 🤓 Despite of being a starter, I'm still putting all my efforts to make myself better
