@@ -32,5 +32,5 @@ I'm Xiaoiaolulu, Individual developers who are passionate about full stack devel
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 
 ### 👀 Visitors
-<div align="center"><img src="https://moe-counter.glitch.me/get/@xiaoxiaolulu?theme=asoul" alt="xiaoxiaolulu"></div>
+<div align="center"><img src="https://count.getloli.com/get/@:xiaoxiaolulu" alt="xiaoxiaolulu"></div>
 
