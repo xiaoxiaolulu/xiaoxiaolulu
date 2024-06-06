@@ -1,12 +1,12 @@
 ## I'm Xiaoiaolulu
 
-![GitHub stars](https://img.shields.io/github/stars/FTLIKON?style=social)
-![GitHub followers](https://img.shields.io/github/followers/FTLIKON?style=social)
+![GitHub stars](https://img.shields.io/github/stars/xiaoxiaolulu?style=social)
+![GitHub followers](https://img.shields.io/github/followers/xiaoxiaolulu?style=social)
 
 ## 🏆 GitHub Profile Trophy
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=FTLIKON&row=1&column=8&no-frame=true" alt="dylech30th"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=xiaoxiaolulu&row=1&column=8&no-frame=true" alt="dylech30th"></div>
 
-I'm Xiaoiaolulu, Individual developers who are passionate about full stack development, you can call me *suger* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://blog.csdn.net/weixin_45915254), welcome to pay a visit if you want to contact or want to make friends with me:).
+I'm Xiaoiaolulu, Individual developers who are passionate about full stack development, you can call me *disable* for brevity. I'm willing to make new friends , welcome to pay a visit if you want to contact or want to make friends with me:).
 
 * ⌨️ I love modern languages with high usability, such as `Python`, `TypeScript`, `Golang`
 * 📜 From a theoretical perspective, I love *Mathematical Logic*, more specifically, *Computability Theory*, and *Programming Language Theory*.
@@ -28,8 +28,8 @@ I'm Xiaoiaolulu, Individual developers who are passionate about full stack devel
 <a href=""><code><img height="20" style="max-width: 100%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code></a>
 
 ### 📊 My Achievement
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FTLIKON&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true">|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTLIKON&layout=compact&theme=buefy&hide_border=true" >|
-|----------|----------|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoxiaolulu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true"> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxiaolulu&layout=compact&theme=buefy&hide_border=true" >|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 
 ### 👀 Visitors
 <div align="center"><img src="https://count.getloli.com/get/@FTLIKON?theme=rule34" alt="FTLIKON"></div>
