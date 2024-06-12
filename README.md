@@ -30,7 +30,3 @@ I'm Xiaoiaolulu, Individual developers who are passionate about full stack devel
 ### 📊 My Achievement
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoxiaolulu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true"> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxiaolulu&layout=compact&theme=buefy&hide_border=true" >|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-
-### 👀 Visitors
-<div align="center"><img src="https://count.getloli.com/get/@xiaoxiaolulu?theme=asoul" alt="xiaoxiaolulu"></div>
-
